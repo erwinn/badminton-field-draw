@@ -58,8 +58,6 @@ function mouseDown(event)
     mouseIsDown = true;
     mouseDownX = event.offsetX;
     mouseDownY = event.offsetY;
-    console.log(mouseDownX);
-    console.log(mouseDownY);
 }
 
 function mouseUp(event)
